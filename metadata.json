@@ -1,0 +1,6 @@
+{
+  "name": "AI Credit Risk Assessment Dashboard",
+  "description": "A comprehensive, high-fidelity AI-powered dashboard for commercial credit risk assessment in lending, featuring a 13-parameter scorecard, portfolio analytics, risk alerts, and an automated Gemini AI Credit Underwriting Memo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
